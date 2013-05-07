@@ -1,0 +1,81 @@
+Sun Aug 05 13:24:05 VET 2007 departamentocomputacion se logueo exitosamente
+Sun Aug 05 13:24:19 VET 2007 departamentocomputacion entro en Consultar Partida Docente
+Sun Aug 05 13:24:25 VET 2007 departamentocomputacion consulto una Partida Docente en la Base de Datos
+Mon Aug 06 07:52:00 VET 2007 jefecomputacion se logueo exitosamente
+Mon Aug 06 07:52:10 VET 2007 jefecomputacion salió del Sistema Manejador de Partidas Docentes
+Mon Aug 06 07:52:22 VET 2007 admince se logueo exitosamente
+Mon Aug 06 07:53:33 VET 2007 admince se logueo exitosamente
+Mon Aug 06 07:53:52 VET 2007 departamentocomputacion se logueo exitosamente
+Mon Aug 06 07:54:01 VET 2007 departamentocomputacion entro en Crear Partida Docente
+Mon Aug 06 07:58:46 VET 2007 departamentocomputacion se logueo exitosamente
+Mon Aug 06 07:58:48 VET 2007 departamentocomputacion entro en Crear Partida Docente
+Mon Aug 06 08:01:42 VET 2007 departamentocomputacion se logueo exitosamente
+Mon Aug 06 08:03:24 VET 2007 departamentocomputacion se logueo exitosamente
+Mon Aug 06 08:03:36 VET 2007 departamentocomputacion entro en Crear Partida Docente
+Mon Aug 06 08:04:10 VET 2007 departamentocomputacion Se intento guardar una Partida Docente
+Mon Aug 06 08:04:31 VET 2007 departamentocomputacion se logueo exitosamente
+Mon Aug 06 08:04:33 VET 2007 departamentocomputacion entro en Modificar Partida Docente
+Mon Aug 06 08:04:45 VET 2007 departamentocomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:04:52 VET 2007 departamentocomputacion entro en Modificar Partida Docente
+Mon Aug 06 08:04:54 VET 2007 departamentocomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:05:23 VET 2007 departamentocomputacion Modifico una Partida Docente en la Base de Datos
+Mon Aug 06 08:05:27 VET 2007 departamentocomputacion entro en Eliminar Partida Docente
+Mon Aug 06 08:05:34 VET 2007 departamentocomputacion elimino una Partida Docente en la Base de Datos
+Mon Aug 06 08:05:41 VET 2007 departamentocomputacion entro en Consultar Partida Docente
+Mon Aug 06 08:05:47 VET 2007 departamentocomputacion consulto una Partida Docente en la Base de Datos
+Mon Aug 06 08:05:54 VET 2007 departamentocomputacion consulto una Partida Docente en la Base de Datos
+Mon Aug 06 08:06:11 VET 2007 departamentocomputacion consulto una Partida Docente en la Base de Datos
+Mon Aug 06 08:06:24 VET 2007 departamentocomputacion consulto una Partida Docente en la Base de Datos
+Mon Aug 06 08:06:40 VET 2007 departamentocomputacion consulto una Partida Docente en la Base de Datos
+Mon Aug 06 08:07:15 VET 2007 departamentocomputacion Genera Reportes Historicos
+Mon Aug 06 08:09:15 VET 2007 departamentocomputacion se logueo exitosamente
+Mon Aug 06 08:09:20 VET 2007 departamentocomputacion Genera Reportes Historicos
+Mon Aug 06 08:10:11 VET 2007 departamentocomputacion se logueo exitosamente
+Mon Aug 06 08:10:16 VET 2007 departamentocomputacion Genera Reportes Historicos
+Mon Aug 06 08:15:25 VET 2007 departamentocomputacion no pudo completar su logueo
+Mon Aug 06 08:15:33 VET 2007 departamentocomputacion se logueo exitosamente
+Mon Aug 06 08:18:04 VET 2007 departamentocomputacion entro en Modificar Partida Docente
+Mon Aug 06 08:18:15 VET 2007 departamentocomputacion Genera Reportes Historicos
+Mon Aug 06 08:25:55 VET 2007 departamentocomputacion se logueo exitosamente
+Mon Aug 06 08:26:02 VET 2007 departamentocomputacion entro en Crear Partida Docente
+Mon Aug 06 08:26:05 VET 2007 departamentocomputacion entro en Modificar Partida Docente
+Mon Aug 06 08:26:09 VET 2007 departamentocomputacion entro en Consultar Partida Docente
+Mon Aug 06 08:26:25 VET 2007 departamentocomputacion Genera Reportes Historicos
+Mon Aug 06 08:26:34 VET 2007 departamentocomputacion salió del Sistema Manejador de Partidas Docentes
+Mon Aug 06 08:26:47 VET 2007 admince se logueo exitosamente
+Mon Aug 06 08:26:58 VET 2007 admince salió del Sistema Manejador de Partidas Docentes
+Mon Aug 06 08:28:15 VET 2007 admince se logueo exitosamente
+Mon Aug 06 08:28:27 VET 2007 admince busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:28:56 VET 2007 admince Genera Reportes Historicos
+Mon Aug 06 08:28:59 VET 2007 admince salió del Sistema Manejador de Partidas Docentes
+Mon Aug 06 08:29:14 VET 2007 jefecomputacion se logueo exitosamente
+Mon Aug 06 08:30:03 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:30:06 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:30:11 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:30:17 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:30:20 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:34:47 VET 2007 jefecomputacion se logueo exitosamente
+Mon Aug 06 08:34:54 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:35:00 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:35:09 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:35:13 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:35:20 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:35:47 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:40:03 VET 2007 jefecomputacion se logueo exitosamente
+Mon Aug 06 08:40:43 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:41:13 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:41:32 VET 2007 jefecomputacion se logueo exitosamente
+Mon Aug 06 08:42:12 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:45:16 VET 2007 jefecomputacion se logueo exitosamente
+Mon Aug 06 08:45:32 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:46:13 VET 2007 jefecomputacion se logueo exitosamente
+Mon Aug 06 08:46:30 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:47:07 VET 2007 jefecomputacion se logueo exitosamente
+Mon Aug 06 08:47:27 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:48:03 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:48:08 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:48:16 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:48:44 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:48:47 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos
+Mon Aug 06 08:48:49 VET 2007 jefecomputacion cambio el estado de una Partida Docente en la Base de Datos
+Mon Aug 06 08:49:22 VET 2007 jefecomputacion busco una Partida Docente en la Base de Datos

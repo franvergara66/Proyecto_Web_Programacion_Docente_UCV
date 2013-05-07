@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+    version="2.4">
+
+ <!-- <display-name>Welcome to Tomcat</display-name>
+  <description>
+     Welcome to Tomcat
+  </description>-->
+
+
+    <servlet>
+        <servlet-name>controladorUsuariosInterno</servlet-name>
+        <servlet-class>com.control.servlets.ControladorUsuarios</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>controladorUsuariosInterno</servlet-name>
+        <url-pattern>/verUsuarios</url-pattern>
+    </servlet-mapping>
+
+	<servlet>
+        <servlet-name>verificadorUsuariosInterno</servlet-name>
+        <servlet-class>com.control.servlets.VerificadorUsuarios</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>verificadorUsuariosInterno</servlet-name>
+        <url-pattern>/verificarUsuario</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarCrearPartidaDocente</servlet-name>
+        <servlet-class>com.control.servlets.ProcesadorMaterias</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarCrearPartidaDocente</servlet-name>
+        <url-pattern>/procesarMaterias</url-pattern>
+    </servlet-mapping>
+
+	<servlet>
+        <servlet-name>procesarFechasPeriodos</servlet-name>
+        <servlet-class>com.control.servlets.ProcesadorFechas</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarFechasPeriodos</servlet-name>
+        <url-pattern>/obtenerFechas</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarFechasPeriodosModificar</servlet-name>
+        <servlet-class>com.control.servlets.ProcesadorFechasModificar</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarFechasPeriodosModificar</servlet-name>
+        <url-pattern>/obtenerFechasModificar</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>buscarPartidaDocente</servlet-name>
+        <servlet-class>com.control.servlets.buscarPD</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>buscarPartidaDocente</servlet-name>
+        <url-pattern>/buscarPD</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>actualizarPartidaDocente</servlet-name>
+        <servlet-class>com.control.servlets.modificadorPD</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>actualizarPartidaDocente</servlet-name>
+        <url-pattern>/modificarMaterias</url-pattern>
+    </servlet-mapping>
+
+	<servlet>
+        <servlet-name>procesarFechasPeriodosConsultar</servlet-name>
+        <servlet-class>com.control.servlets.ProcesadorFechasConsultar</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarFechasPeriodosConsultar</servlet-name>
+        <url-pattern>/obtenerFechasConsultar</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>buscarPartidaDocenteConsultar</servlet-name>
+        <servlet-class>com.control.servlets.buscarPDConsultar</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>buscarPartidaDocenteConsultar</servlet-name>
+        <url-pattern>/buscarPDConsultar</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarFechasPeriodosEliminar</servlet-name>
+        <servlet-class>com.control.servlets.ProcesadorFechasEliminar</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarFechasPeriodosEliminar</servlet-name>
+        <url-pattern>/obtenerFechasEliminar</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>buscarPartidaDocenteEliminar</servlet-name>
+        <servlet-class>com.control.servlets.buscarPDEliminar</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>buscarPartidaDocenteEliminar</servlet-name>
+        <url-pattern>/buscarPDEliminar</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarCargaAnoLectivo</servlet-name>
+        <servlet-class>com.control.servlets.CargarAnoLectivo</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarCargaAnoLectivo</servlet-name>
+        <url-pattern>/cargaAnoLectivo</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarMostrarPartidasDocentes</servlet-name>
+        <servlet-class>com.control.servlets.MostradorPartidasDocentes</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarMostrarPartidasDocentes</servlet-name>
+        <url-pattern>/mostrarPartidasDocentes</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarCambiarEstadoPD</servlet-name>
+        <servlet-class>com.control.servlets.CambioEstadoPD</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarCambiarEstadoPD</servlet-name>
+        <url-pattern>/cambiarEstadoPD</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarCargarRecord</servlet-name>
+        <servlet-class>com.control.servlets.CargarReporte</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarCargarRecord</servlet-name>
+        <url-pattern>/cargaRecord</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarGenerarReporte</servlet-name>
+        <servlet-class>com.control.servlets.GenerarReporte</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarGenerarReporte</servlet-name>
+        <url-pattern>/generaReporte</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarCargarRecord2</servlet-name>
+        <servlet-class>com.control.servlets.CargarReporte2</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarCargarRecord2</servlet-name>
+        <url-pattern>/cargaRecord2</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarGenerarReporte2</servlet-name>
+        <servlet-class>com.control.servlets.GenerarReporte2</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarGenerarReporte2</servlet-name>
+        <url-pattern>/generaReporte2</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarCargarRecord3</servlet-name>
+        <servlet-class>com.control.servlets.CargarReporte3</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarCargarRecord3</servlet-name>
+        <url-pattern>/cargaRecord3</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>procesarGenerarReporte3</servlet-name>
+        <servlet-class>com.control.servlets.GenerarReporte3</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>procesarGenerarReporte3</servlet-name>
+        <url-pattern>/generaReporte3</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>desloguear</servlet-name>
+        <servlet-class>com.control.servlets.logoff</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>desloguear</servlet-name>
+        <url-pattern>/log_off</url-pattern>
+    </servlet-mapping>
+	
+	<servlet>
+        <servlet-name>verProgramacion</servlet-name>
+        <servlet-class>com.control.servlets.VerProgramacion</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>verProgramacion</servlet-name>
+        <url-pattern>/verProg</url-pattern>
+    </servlet-mapping>
+</web-app>

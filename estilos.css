@@ -1,0 +1,124 @@
+#banner {
+	width:752; height:98; position:relative; top:0; left:5; background-image:url(images/top.jpg);	
+}
+#centro {
+	width:752; height:404; position:relative; top:106; left:5; 	
+}
+#centro_izq {
+	width:120; height:500; position:relative; top:10; left:5; font-family:Tahoma; font-weight:bold; font-size:10px; color:#9F0D10; text-decoration:none;	
+}
+#centro_der {
+	width:550; height:500; position:relative; top:10; left:208; background-color:#FF0000;
+}
+#foot {
+	width:980; height:25; position:relative; top:510; left:5; background-image:url(imagenes/foot.png);	
+}
+
+.menu{
+	 font-family:Tahoma; font-weight:bold; font-size:10px; color:#9F0D10; text-decoration:none;
+}
+div.menu a:link {color: #ffffff; text-decoration: none}
+div.menu a:active { color: #ffffff;text-decoration: none}
+div.menu a:visited {color: #ffffff;text-decoration: none}
+div.menu a:hover {color: #403f81;text-decoration: none}
+div.menu {(position:absolute;text-decoration: nonetop:0;left:0;)}
+a:link {text-decoration: none; color: #403f81;}
+a:active {text-decoration: none}
+a:visited {text-decoration: none}
+a:hover {text-decoration: none}
+.rayita{
+	width:120; height:3; background-color:#ffffff;
+}
+.lefttable{
+	height:30; background-color:#8C8C8C; font-family:Tahoma; font-weight:bold; font-size:11px; color:#ffffff;padding-left:15px;
+}
+.facultad{
+	width:150; height:20; position:relative; top:4; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_fac{
+	width:250; height:20; position:relative; top:4; left:150;
+}
+.escuela{
+	width:250; height:20; position:relative; top:29; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_esc{
+	width:250; height:20; position:relative; top:29; left:150;
+}
+.departamento{
+	width:250; height:20; position:relative; top:54; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_dep{
+	width:250; height:20; position:relative; top:54; left:150;
+}
+.seccion{
+	width:250; height:20; position:relative; top:79; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_sec{
+	width:250; height:20; position:relative; top:79; left:150;
+}
+.id_extension{
+	width:250; height:20; position:relative; top:104; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_id_ext{
+	width:250; height:20; position:relative; top:104; left:150;
+}
+.id_persona{
+	width:250; height:20; position:relative; top:129; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_id_per{
+	width:250; height:20; position:relative; top:129; left:150;
+}
+.condicion_linea{
+	width:250; height:20; position:relative; top:154; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_cond_linea{
+	width:250; height:20; position:relative; top:154; left:150;
+}
+.uso_linea{
+	width:250; height:20; position:relative; top:179; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_uso_linea{
+	width:250; height:20; position:relative; top:179; left:150;
+}
+.tipo_puerto{
+	width:250; height:20; position:relative; top:204; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_tipo_puerto{
+	width:250; height:20; position:relative; top:204; left:150;
+}
+.tipo_cable{
+	width:250; height:20; position:relative; top:229; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_cable{
+	width:250; height:20; position:relative; top:229; left:150;
+}
+.cable_par{
+	width:250; height:20; position:relative; top:254; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_par{
+	width:250; height:20; position:relative; top:254; left:150;
+}
+.id_equipo{
+	width:250; height:20; position:relative; top:279; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_id_equipo{
+	width:250; height:20; position:relative; top:279; left:150; 
+}
+.ubicacion_puerto{
+	width:250; height:20; position:relative; top:304; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_ubicacion_puerto{
+	width:250; height:20; position:relative; top:304; left:150;
+}
+.ubicacion_fisica{
+	width:250; height:20; position:relative; top:329; left:10; font-family: Times new Roman; color: #7cb1c8; font-size:14px;font-weight:bold;
+}
+.input_ubicacion_fisica{
+	width:250; height:20; position:relative; top:329; left:150;
+}
+.input_limpiar{
+	width:70; height:25; position:relative; top:439; left:150; font-family: Times new Roman; color: #7cb1c8; font-size:14px; font-weight:bold; border-color:#000000;
+}
+.input_agregar_extension{
+	width:70; height:25; position:relative; top:439; left:280; font-family: Times new Roman; color: #7cb1c8; font-size:14px; font-weight:bold; border-color:#000000;
+}

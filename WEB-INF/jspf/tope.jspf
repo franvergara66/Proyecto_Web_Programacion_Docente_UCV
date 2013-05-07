@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>::EJEMPLOS::</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+.Estilo1 {
+	font-size: x-small;
+	font-style: italic;
+}
+.Estilo3 {font-size: small}
+-->
+</style>
+</head>
+
+<body>
+<table width="700"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <th align="left" bgcolor="#CCCCCC" scope="col"><h2>LOGO + TITULO</h2></th>
+  </tr>
+  <tr>
+    <td align="right" bgcolor="#FFCC66"><span class="Estilo1">Aqui va la Fecha </span></td>
+  </tr>
+  <tr>
+    <td align="center">
+	<!-- inicio del contenido -->
+	<br>
